@@ -103,6 +103,62 @@ h6 {
 
 /* sec-health-active */
 
+.sec-health-active {
+    margin-bottom: 100px;
+}
+
 .image-1 {
     height: 243px;
+}
+
+
+/* Gallery */
+
+.gallery-header-text {
+    margin-bottom: 20px;
+}
+
+.gallery-header-text h1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+
+/* app */
+
+.app h1 {
+    font-weight: 500;
+    line-height: 100px;
+}
+
+
+/* user-plan */
+
+.user-plan .card {
+    padding: 10px;
+}
+
+.user-plan p,
+li {
+    line-height: 50px;
+    font-size: 20px;
+}
+
+.user-plan li {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+span {
+    margin-right: 5px;
+}
+
+.text-color {
+    color: royalblue;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
 }
